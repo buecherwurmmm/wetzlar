@@ -118,12 +118,6 @@
          "id":61,
          "name":"Whiteboard",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/cryptpad.fr\/whiteboard\/#\/2\/whiteboard\/edit\/sqkRfEcCREwneNTHuKE0fVaX\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
